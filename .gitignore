@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/Spring-Security-Simple-OAuth.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+spring-security-auth-server/.idea
+spring-security-auth-server/.mvn
+spring-security-auth-server/mvnw.cmd
+spring-security-client/mvnw.cmd
+spring-security-client/mvnw
+spring-security-client/.mvn
+spring-security-client/.idea
+
